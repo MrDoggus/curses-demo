@@ -4,7 +4,7 @@ CC = gcc
 CCWIN = x86_64-w64-mingw32-gcc
 CFLAGS = -Wall -Wshadow
 
-SRCS = main0.c main1.c main2.c main3.c main3cp.c main4.c main5.c main6.c main7.c main10.c main11.c main13.c
+SRCS = main0.c main1.c main2.c main3.c main3cp.c main4.c main5.c main6.c main7.c main10.c main11.c main13.c main15.c main16.c main17.c main19.c
 SRCS_DIR = src
 PDCURSES_LIB = pdcurses.a
 PDCURSES_DIR = src/pdcurses

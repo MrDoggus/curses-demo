@@ -16,6 +16,10 @@ I am walking through [this youtube playlist](https://www.youtube.com/watch?v=lV-
  - main10: Input modes
  - main11: storing attribute data
  - main13: detecting ctrl+[key] combinations
+ - main15: attributes with chgat
+ - main16: clear routines
+ - main17: output/refresh options
+ - main19: deleting window memory
 
 ## Notes
  - windows terminal console text is skewed.
