@@ -20,6 +20,7 @@ I am walking through [this youtube playlist](https://www.youtube.com/watch?v=lV-
  - main16: clear routines
  - main17: output/refresh options
  - main19: deleting window memory
+ - main20: custom colors and color constants
 
 ## Notes
  - windows terminal console text is skewed.
